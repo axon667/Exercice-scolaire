@@ -1,0 +1,166 @@
+body, html{
+
+    margin: 0px;
+
+    padding: 0px;
+
+    background-color: #FFDB00;
+
+    text-decoration: none;
+
+}
+
+
+header {
+
+    background-color: white;
+
+    height: 75px;
+
+    position: fixed;
+
+    width: 100%;
+
+    box-shadow: 1px 1px 1px #AAA;
+
+}
+
+
+.hamburger{
+
+    padding-top:25px;
+
+    padding-left: 30px;
+
+    border:none;
+
+    background-color: transparent;
+
+}
+
+
+#contenu{
+
+    padding-top: 150px;
+
+    text-align: center;
+
+    font-family: Helvetica, Arial, sans-serif;
+
+  
+
+}
+
+
+#menu ul {
+
+    float: right;
+
+    padding-right: 10px;
+
+    padding-top: 13px;
+
+}
+
+
+#menu li {
+
+    display:table-cell;
+
+    padding-right: 20px;
+
+}
+
+
+#menu ul li {
+
+    font-size: 14px;
+
+    letter-spacing: 1px;
+
+    font-family: Helvetica, Arial, sans-serif;
+
+    font-weight: normal;
+
+    color: #262626;
+
+}
+
+
+h1 {
+
+    color: white;
+
+    font-size: 60px;
+
+    line-height: 62px;
+
+    font-style: normal;
+
+    font-weight: bold;
+
+    text-align: center;
+
+}
+
+
+h3 {
+
+    font-size: 30px;
+
+    line-height: 40px;
+
+    font-style: normal;
+
+    font-weight: bold;
+
+}
+
+
+.back {
+
+    background-color: transparent;
+
+    border:none;
+
+    font-family: Helvetica, Arial, sans-serif;
+
+    font-size: 12px;
+
+    color: white;
+
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+
+
+    padding: 15px 6px 15px 60px;
+
+    background:transparent url(images/back_btn.svg) no-repeat 5px center;
+
+}
+
+
+footer {
+
+    
+
+    background-color:#262626;
+
+
+    width:100%;
+
+    height:400px;
+
+    
+
+    bottom:-50;
+
+    margin-top:75px;
+
+    
+
+    position: absolute;
+
+
+}
